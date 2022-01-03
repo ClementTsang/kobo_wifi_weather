@@ -2,9 +2,11 @@
 
 A Kobo Wifi weather display, building on work from [this post](https://www.mobileread.com/forums/showthread.php?t=194376).
 
+![A demo of the Kobo Wifi displaying weather](./demo.jpg)
+
 One of the problems with the original weather display is that the weather code no longer works. I've updated it to use OpenWeatherMap's API, and updated the "config" process to ask the user for a unit (from metric, imperial, or standard) in addition to their API key, which you can get for free.
 
-I've also changed the cron job to run every 30 minutes.
+I've also changed the cron job to run every 30 minutes, used [weather icons from Erik Flowers](https://erikflowers.github.io/weather-icons/), and used SF Display as the font.
 
 For now, I've only included the files I've modified, with the fonts and icons available online and the rest of the files in the post. I'll add more if I spend more time on this.
 
@@ -12,7 +14,7 @@ For now, I've only included the files I've modified, with the fonts and icons av
 
 ## Why
 
-I had a spare Kobo Wifi, and e-ink displays cost far too much for me to just chuck it, so this is what I decided to do with it.
+I had a spare Kobo Wifi, and e-ink displays of a comparable size cost far too much right now for me to just chuck it, so this is what I decided to do with it.
 
 ## How to use this
 
