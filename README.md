@@ -10,7 +10,7 @@ I've also changed the cron job to run every 30 minutes, used [weather icons from
 
 For now, I've only included the files I've modified, with the fonts and icons available online and the rest of the files in the post. I'll add more if I spend more time on this.
 
-**Please note that this is only tested to work on the Kobo Wifi.**
+**Please note that this is only tested to work on the Kobo Wifi.** However, the included files should *technically* work on any e-ink display, though the current draw location values are hard-coded, and the install instructions below are only designed for the Kobo Wifi.
 
 ## Why
 
