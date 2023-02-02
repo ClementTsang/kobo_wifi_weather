@@ -47,7 +47,7 @@ Download the weather icons from [here](https://erikflowers.github.io/weather-ico
 mogrify -format png -path ../icons -colorspace sRGB -density 288  *.svg
 ```
 
-You can use your own weather icons, but there are included OpenWeatherMap-to-Weather Icon mappings.
+You can use your own weather icons, but these have included OpenWeatherMap-to-Weather Icon mappings.
 
 #### Font
 
