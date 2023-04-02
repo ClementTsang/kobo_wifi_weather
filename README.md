@@ -18,7 +18,7 @@ I had a spare Kobo Wifi, and e-ink displays of a comparable size cost far too mu
 
 ## How to use this
 
-If you're also a proud owner of a hand-me-down Kobo Wifi that is somehow still working, you can follow these instructions to install this:
+If you're also a proud owner of a Kobo Wifi that is somehow still working that you have no other use for, you can follow these instructions to install this:
 
 ### Backup
 
